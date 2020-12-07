@@ -1,0 +1,6 @@
+## 默认git仓库前缀
+GITLAB_BASE=
+## 公司git地址
+GITLAB_URL=
+## git access token，如何生成看文档
+GITLAB_TOKEN=
